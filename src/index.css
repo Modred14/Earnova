@@ -1,0 +1,42 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a{
+  text-decoration: underline;
+}
+a:hover{
+  text-decoration: none;
+}
+
+.bg-green-970{
+  background-color: rgb(4, 64, 4);
+}
+.bg-black-o{
+  background-color: rgb(0, 0, 0, 0.4);
+}
+.mt-19{
+  margin-top: 65px;
+}
+.twilight{
+  background-color: #5b62b3;
+}
+.bg-gif {
+  background-image: url('/EARNOVA.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+.form-size {
+ 
+  overflow-y: scroll;
+  height: 100vh;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
