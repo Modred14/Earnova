@@ -18,7 +18,6 @@ const Signup = () => {
                 <p className="text-2xl mt-4 font-extrabold "> Earnova</p>
               </div>
               <div className="pt-8">
-                <p className="text-xl font-bold">Create an account</p>
                 <p className="text-sm mb-3">Let's get started!</p>
                 <p className="text-sm  w-12 p-1 ml-2">Name</p>
                 <input
