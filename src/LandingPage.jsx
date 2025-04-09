@@ -100,9 +100,10 @@ const LandingPage = () => {
                 <button className="bg-gray-200 px-3 py-2 rounded-lg text-sm font-semibold text-gray-700">
                   Transfer
                 </button>
+                <a href="/login">
                 <button className="bg-gray-200 px-3 py-2 rounded-lg text-sm font-semibold text-gray-700">
                   Withdraw
-                </button>
+                </button></a>
               </div>
             </div>
             <div className="mt-3 bg-gradient-to-b from-black via-transparent to-transparent bg-[length:100%_40%] bg-no-repeat bg-top bg-green-900  text-gray-200 p-5 rounded-2xl">
